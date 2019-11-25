@@ -1,3 +1,3 @@
-#weclome
-greetings = "welcmoe to python code"
+#welcome
+greetings = "welcome to python code "
 print(greetings)

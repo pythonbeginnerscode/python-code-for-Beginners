@@ -5,6 +5,5 @@ def reverse(k):
         str = i + str
     return str
 k = input("enter a string" )
-
 print("reverse string is:",end=" ")
 print(reverse (k))
